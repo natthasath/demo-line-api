@@ -1,7 +1,6 @@
 # 🎉 Demo Line API
 
-Get notifications from LINE Notify's official account after connecting with your preferred web services.
-You can receive notifications from multiple services in groups or 1-on-1 chats.
+LINE is a cross-platform messaging app that allows text, voice, video calls, file sharing, and payments. It also includes social network, gaming and news features. Developed by LINE Corporation, available on multiple platforms including iOS, Android, Windows, Mac, and web browsers.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
